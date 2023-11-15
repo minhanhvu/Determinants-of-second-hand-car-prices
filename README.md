@@ -4,8 +4,8 @@ The project identifies the key specifications influencing the price of second-ha
 What are the key factors that influence the price of second-hand cars in German markets?
 ### ⚡ACTION
 #### Step 1: Collect sample dataset
-Data source: autoscout24.com
-Object: BMW cars in German markets, 3rd-generation model, 4 seats, with four popular body types including sedan, coupé, compact, and touring
+* Data source: autoscout24.com
+* Object: BMW cars in German markets, 3rd-generation model, 4 seats, with four popular body types including sedan, coupé, compact, and touring
 395 pre-owned cars and 8 specifications for each observation have been gathered: 
 
 **Dependent variable:** Car price
