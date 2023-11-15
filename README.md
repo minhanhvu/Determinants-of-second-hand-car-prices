@@ -6,9 +6,8 @@ What are the key factors that influence the price of second-hand cars in German 
 #### Step 1: Collect sample dataset
 I used _a web scrapping library from Python_ to extract car listing data from _autoscout24.com_ on 22nd Jan 2021. I chose autoscout24.com for its significant number of active users, which is a good indication of an up-to-date market data source that closely reflects the demand and supply. Moreover, the vast number of used cars listed on autoscout24 also allows a larger sample size, producing more precise estimations.
 
-* Data source: autoscout24.com
-* Object: BMW cars in German markets, 3rd-generation model, 4 seats, with four popular body types including sedan, coupé, compact, and touring
-**395 pre-owned cars** and **8 specifications** for each observation have been gathered
+My target object is BMW cars in German markets, 3rd-generation model, 4 seats, with four popular body types including sedan, coupé, compact, and touring
+Overall, I collected **395 pre-owned cars** and **8 specifications** for each observation
 
 #### Step 2: Specify multivariate regression model 
 
