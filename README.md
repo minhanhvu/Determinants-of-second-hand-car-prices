@@ -10,6 +10,14 @@ I used _a web scrapping library from Python_ to extract car listing data from _a
 
 The target object is BMW cars in the German market, specifically the 3rd-generation model with 4 seats, available in popular body types: sedan, coupé, compact, and touring. After filtering out observations with less than 3 out of 9 required details, I then had a cleaned dataset of **395** pre-owned cars, each including its **price** and **8 specification details** 
 
+#### Step 2: Specify multivariate regression model 
+<p align="center"> 
+<img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/869b6a3d-20d5-4135-9611-76cc7496d128" width=60% height=60%>
+</p>
+
+#### Step 3: Check model robustness 
+Here I discussed the functional misspecification issues that could alter the original results. 
+
 ### ⚡OUTCOME
 The results show that car age, mileage, horsepower, and gear type have significant impacts on the variation of car prices. The cost of the BMW car decreases by 860 euros for every additional year of age. Every thousand kilometers the car run drives down its price by 76 euro. I consider these effects to be aligned with economic norms. Car age and mileage are indicators of the car's wear and tear, and signify the risk of malfunction. Therefore, customers are less willing to pay for old cars. On the other hand, the higher the horsepower, which indicates the rapidness of a car's engine, the higher the price. Besides, comparing two cars with similar profiles, an automatic BMW car is on average 2,104 euro more expensive than a BMW manual car. 
 
