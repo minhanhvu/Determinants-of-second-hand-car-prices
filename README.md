@@ -4,7 +4,7 @@ Here you'll find the summary of my projects. For in-depth analysis/discussion, p
 ### ⁉️ Problem statement
 The project sets out to identify the key specifications that influence the price of second-hand cars in German markets using BMW car dataset. 
 ### 🎬 Action
-#### \_Step 1\: Collect sample dataset
+#### _Step 1\_: Collect sample dataset
 Used _a web scrapping library from Python_ to extract car listing data from _autoscout24.com_.
 
 After filtering out observations with insufficient required information, I had a cleaned dataset of **395** pre-owned cars, each including its **price** and **8 specification details** 
