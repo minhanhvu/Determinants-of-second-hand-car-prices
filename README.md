@@ -1,5 +1,6 @@
 # Determinants-of-second-hand-car-prices
-The project identifies the key specifications influencing the price of second-hand cars in German markets, using BMW car dataset.
+The project sets out to identify the key specifications that influence the price of second-hand cars in German markets using BMW car dataset. I applied the multivariate regression model, which is a powerful tool to study and quantify the relationships between the explanatory factors and the response variable (car prices in this project). The results show that car age, mileage, horsepower, and gear type have significant impacts on the variation of car prices. The older the car and the longer it has been driven, the cheaper it is. On the other hand, the higher the horsepower, which indicates the rapidness of a car's engine, the higher the price. Besides, comparing two cars with similar profiles, an automatic BMW car is on average 2,104 euro more expensive than a BMW manual car
+
 ### ⚡PROBLEM STATEMENT
 What are the key factors that influence the price of second-hand cars in German markets?
 ### ⚡ACTION
