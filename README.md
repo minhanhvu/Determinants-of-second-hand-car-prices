@@ -10,6 +10,7 @@ I focus on BMW cars in the German market, specifically the 3rd-generation model 
 
 #### Step 2: Specify multivariate regression model 
 
+
 **Dependent variable:** Car price
 
 **Independent variables:**
