@@ -1,6 +1,20 @@
 # Determinants-of-second-hand-car-prices
 The project sets out to identify the key specifications that influence the price of second-hand cars in German markets using BMW car dataset. I applied **multivariate regression model**, which is a powerful tool to study and quantify the relationships between the explanatory factors and the response variable.
 
+#### ⚡PROBLEM STATEMENT
+What are the key factors that influence the price of BMW second-hand cars in German markets?
+
+#### ⚡ACTION
+#### Step 1: Collect sample dataset
+I used _a web scrapping library from Python_ to extract car listing data from _autoscout24.com_ on 22nd Jan 2021
+The target object is BMW cars in the German market, specifically the 3rd-generation model with 4 seats, available in popular body types: sedan, coupé, compact, and touring. After filtering out observations with less than 3 out of 9 required details, I then had a cleaned dataset of **395** pre-owned cars, each including its **price** and **8 specification details** 
+
+#### Step 2: Specify multivariate regression model 
+
+#### Step 3: Check model robustness
+Here I discussed the functional misspecification issues that could alter the original results. 
+
+### ⚡OUTCOME
 <p align="center"> 
 <img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/b9cf703c-810d-41c8-aebe-66bae2ff6dcf" width=60% height=60%>
 </p>
