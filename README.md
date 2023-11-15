@@ -10,8 +10,9 @@ I focus on BMW cars in the German market, specifically the 3rd-generation model 
 
 #### Step 2: Specify multivariate regression model 
 
-![image](https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/8da1c95b-0085-4b38-8261-5750d8b3e8da)
-
+<p align="center"> 
+<img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/8da1c95b-0085-4b38-8261-5750d8b3e8da" width=40% height=40%>
+</p>
 
 
 **Dependent variable:** Car price
