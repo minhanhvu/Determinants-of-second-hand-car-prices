@@ -4,13 +4,13 @@ Here you'll find the summary of my projects. For in-depth analysis/discussion, p
 ### ⁉️ Problem statement
 The project sets out to identify the key specifications that influence the price of second-hand cars in German markets using BMW car dataset. 
 ### 🎬 Action
-#### _Step 1_: Collect sample dataset
+#### _Step 1_: Data collection
 Used _a web scrapping library from Python_ to extract car listing data from _autoscout24.com_.
 
 After filtering out observations with insufficient required information, I had a cleaned dataset of **395** pre-owned cars, each including its **price** and **8 specification details** 
-#### _Step 2_: Specify regression model
+#### _Step 2_: Model specification
 Applied **multivariate regression model**, which is a powerful tool to study and quantify the relationships between the explanatory factors and the response variable.
-#### _Step 3_: Check model robustness
+#### _Step 3_: Model robustness check
 - Discussed the functional misspecification issues that could alter the original results and suggested two alternatives.
 - Conducted white test for heteroskedasticity and VIF test for multicollinearity problem and interpreted the test results
 
