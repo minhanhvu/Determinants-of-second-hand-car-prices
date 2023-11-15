@@ -9,9 +9,7 @@ I used _a web scrapping library from Python_ to extract car listing data from _a
 I focus on BMW cars in the German market, specifically the 3rd-generation model with 4 seats, available in popular body types: sedan, coupé, compact, and touring. After filtering out observations with less than 3 out of 9 required details, I then had a cleaned dataset of **395** pre-owned cars, each including its **price** and **8 specification details.**
 
 #### Step 2: Specify multivariate regression model 
-</p>
-<p align="center"> Correlation matrix between dependent variables**
-<p align="center"> 
+<p align="center"> Correlation matrix between dependent variables
 <img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/8da1c95b-0085-4b38-8261-5750d8b3e8da" width=60% height=60%>
 
 
