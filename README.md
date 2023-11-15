@@ -6,19 +6,17 @@ What are the key factors that influence the price of second-hand cars in German 
 #### Step 1: Collect sample dataset
 I used _a web scrapping library from Python_ to extract car listing data from _autoscout24.com_ on 22nd Jan 2021. autoscout24.com has a significant number of active users, which is a good indication of an up-to-date market data source that closely reflects the demand and supply. Moreover, the vast number of used cars listed on autoscout24 also allows a larger sample size, producing more precise estimations.
 
-The target object is BMW cars in the German market, specifically the 3rd-generation model with 4 seats, available in popular body types: sedan, coupé, compact, and touring. After filtering out observations with less than 3 out of 9 required details, I then had a cleaned dataset of **395** pre-owned cars, each including its **price** and **8 specification details.**. 
+The target object is BMW cars in the German market, specifically the 3rd-generation model with 4 seats, available in popular body types: sedan, coupé, compact, and touring. After filtering out observations with less than 3 out of 9 required details, I then had a cleaned dataset of **395** pre-owned cars, each including its **price** and **8 specification details.** as described below.
 
-**Dependent variable:** Car price
-
-**Independent variables:**
-1. Mileage (number of kilometers driven)
-2. Year of first registration
-3. Horsepower
-4. Number of previous owners
-5. Gear type (automatic/manual)
-6. Fuel type (gasoline/diesel)
-7. Fuel consumption per 100km
-8. CO2 emission per km
+1. Car price
+2. Mileage (number of kilometers driven)
+3. Year of first registration
+4. Horsepower
+5. Number of previous owners
+6. Gear type (automatic/manual)
+7. Fuel type (gasoline/diesel)
+8. Fuel consumption per 100km
+9. CO2 emission per km
 
 The section below will describe the notation and measurement unit for each specification and the model formulation.
 
