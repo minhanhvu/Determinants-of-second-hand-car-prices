@@ -10,7 +10,7 @@ I focus on BMW cars in the German market, specifically the 3rd-generation model 
 
 #### Step 2: Specify multivariate regression model 
 
-<p align="center"> 
+<p align="center"> Correlation matrix between dependent variables
 <img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/8da1c95b-0085-4b38-8261-5750d8b3e8da" width=60% height=60%>
 </p>
 
