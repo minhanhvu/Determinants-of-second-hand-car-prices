@@ -6,7 +6,9 @@ What are the key factors that influence the price of second-hand cars in German 
 #### Step 1: Collect sample dataset
 * Data source: autoscout24.com
 * Object: BMW cars in German markets, 3rd-generation model, 4 seats, with four popular body types including sedan, coupé, compact, and touring
-**395 pre-owned cars** and **8 specifications** for each observation have been gathered:
+**395 pre-owned cars** and **8 specifications** for each observation have been gathered
+
+#### Step 2: Specify multivariate regression model 
 
 **Dependent variable:** Car price
 
@@ -19,8 +21,6 @@ What are the key factors that influence the price of second-hand cars in German 
 6. Fuel type (gasoline/diesel)
 7. Fuel consumption per 100km
 8. CO2 emission per km
-
-#### Step 2: Specify multivariate regression model 
 
 #### Step 3: Check model robustness 
 
