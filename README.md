@@ -1,5 +1,5 @@
 #### 📝 NOTE:
-Here you'll find the summary of my projects. For in-depth analysis/discussion, please visit my [Gitbook](https://minh-anh-vu.gitbook.io/anh-vus-datacracy-hub/)
+Here you'll find the summary of my projects. For in-depth analysis/discussion, please visit my [Gitbook](https://minh-anh-vu.gitbook.io/anh-vus-datacracy-hub/statistical-projects/regression-determinants-of-second-hand-car-prices)
 
 ### ⁉️ Problem statement
 The project sets out to identify the key specifications that influence the price of second-hand cars in German markets using BMW car dataset. 
