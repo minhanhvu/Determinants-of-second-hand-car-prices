@@ -9,6 +9,7 @@ Object: BMW cars in German markets, 3rd-generation model, 4 seats, with four pop
 395 pre-owned cars and 8 specifications for each observation have been gathered: 
 
 **Dependent variable:** Car price
+
 **Independent variables:**
 1. Mileage (number of kilometers driven)
 2. Year of first registration
