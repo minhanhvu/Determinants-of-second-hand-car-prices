@@ -1,4 +1,4 @@
-#### 📝 NOTE:
+### 📝 NOTE:
 Here you'll find the summary of my projects. For in-depth analysis/discussion, please visit my [Gitbook](https://minh-anh-vu.gitbook.io/anh-vus-datacracy-hub/statistical-projects/regression-determinants-of-second-hand-car-prices)
 
 ### ⁉️ Problem statement
@@ -16,7 +16,7 @@ Applied **multivariate regression model**, which is a powerful tool to study and
 
 ### 💡Outcome
 <p align="center"> 
-<img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/b9cf703c-810d-41c8-aebe-66bae2ff6dcf" width=60% height=60%>
+<img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/4a1657d8-d861-440f-a811-85eb9cd8fe80" width=60% height=60%>
 </p>
 
 The results show that car age, mileage, horsepower, and gear type have significant impacts on the variation of car prices. 
