@@ -16,7 +16,7 @@ Applied **multivariate regression model**, which is a powerful tool to study and
 
 ### 💡Outcome
 <p align="center"> 
-<img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/4a1657d8-d861-440f-a811-85eb9cd8fe80" width=60% height=60%>
+<img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/b81b21bc-aa7b-4cfa-bf39-434a09788b51" width=60% height=60%>
 </p>
 
 The results show that car age, mileage, horsepower, and gear type have significant impacts on the variation of car prices. 
