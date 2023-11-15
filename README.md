@@ -13,7 +13,8 @@ I focus on BMW cars in the German market, specifically the 3rd-generation model 
 <p align="center"> Correlation matrix between dependent variables
 <img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/8da1c95b-0085-4b38-8261-5750d8b3e8da" width=60% height=60%>
 </p>
-
+<p align="center"> Correlation matrix between dependent variables
+</p>
 <p align="center"> 
 <img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/869b6a3d-20d5-4135-9611-76cc7496d128" width=60% height=60%>
 </p>
