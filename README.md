@@ -7,6 +7,7 @@ What are the key factors that influence the price of second-hand cars in German 
 Data source: autoscout24.com
 Object: BMW cars in German markets, 3rd-generation model, 4 seats, with four popular body types including sedan, coupé, compact, and touring
 395 pre-owned cars and 8 specifications for each observation have been gathered: 
+
 **Dependent variable:** Car price
 **Independent variables:**
 1. Mileage (number of kilometers driven)
