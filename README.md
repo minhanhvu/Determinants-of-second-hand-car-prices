@@ -18,7 +18,7 @@ The target object is BMW cars in the German market, specifically the 3rd-generat
 #### Step 3: Check model robustness
 Here I discussed the functional misspecification issues that could alter the original results. 
 <p align="center"> 
-<img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/8a3c6437-28e1-4420-8e9b-d33d8421577c" width=40% height=40%>
+<img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/8a3c6437-28e1-4420-8e9b-d33d8421577c" width=60% height=60%>
 </p>
 
 - White test for heteroskedasticity
@@ -26,7 +26,7 @@ Here I discussed the functional misspecification issues that could alter the ori
 
 ### ⚡OUTCOME
 <p align="center"> 
-<img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/b9cf703c-810d-41c8-aebe-66bae2ff6dcf" width=40% height=40%>
+<img src="https://github.com/minhanhvu/Determinants-of-second-hand-car-prices/assets/87383756/b9cf703c-810d-41c8-aebe-66bae2ff6dcf" width=60% height=60%>
 </p>
 
 The results show that car age, mileage, horsepower, and gear type have significant impacts on the variation of car prices. 
