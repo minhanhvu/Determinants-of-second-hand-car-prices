@@ -1,5 +1,5 @@
 #### 📝 NOTE:
-Here you'll find the summary of my projects. For in-depth analysis/discussion, please visit my Gitbook 
+Here you'll find the summary of my projects. For in-depth analysis/discussion, please visit my [Gitbook](https://app.gitbook.com/invite/6k2RLujGEBM1Btd5wBpN/SEho73bFKuEHKOxyOgDL)
 
 ### ⁉️ Problem statement
 The project sets out to identify the key specifications that influence the price of second-hand cars in German markets using BMW car dataset. 
