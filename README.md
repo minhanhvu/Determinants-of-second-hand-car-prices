@@ -18,8 +18,6 @@ The target object is BMW cars in the German market, specifically the 3rd-generat
 8. Fuel consumption per 100km
 9. CO2 emission per km
 
-The section below will describe the notation and measurement unit for each specification and the model formulation.
-
 #### Step 2: Specify multivariate regression model 
 
 <p align="center"> 
