@@ -1,3 +1,6 @@
+📝 #### NOTE:
+Here you find the key 
+
 ### ⁉️ Problem statement
 The project sets out to identify the key specifications that influence the price of second-hand cars in German markets using BMW car dataset. 
 ### 🎬 Action
@@ -7,8 +10,8 @@ After filtering out observations with less than 3 out of 9 required details, I t
 #### Step 2: Collect sample dataset
 Applied **multivariate regression model**, which is a powerful tool to study and quantify the relationships between the explanatory factors and the response variable.
 #### Step 3: Check model robustness
-- Discussed the functional misspecification issues that could alter the original results. 
-- White test for heteroskedasticity and VIF test for multicollinearity problem
+- Discussed the functional misspecification issues that could alter the original results and suggested two alternatives.
+- Conducted white test for heteroskedasticity and VIF test for multicollinearity problem and interpreted the results
 
 ### 🎊Outcome
 <p align="center"> 
