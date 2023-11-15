@@ -6,7 +6,7 @@ The project sets out to identify the key specifications that influence the price
 </p>
 
 The results show that car age, mileage, horsepower, and gear type have significant impacts on the variation of car prices. 
-- The cost of the BMW car decreases by 860 euros for every additional year of age. Every thousand kilometers the car run drives down its price by 76 euro. I consider these effects to be aligned with economic norms. Car age and mileage are indicators of the car's wear and tear, and signify the risk of malfunction. Therefore, customers are less willing to pay for old cars. 
-- On the other hand, the higher the horsepower, which indicates the rapidness of a car's engine, the higher the price. Besides, comparing two cars with similar profiles, an automatic BMW car is on average 2,104 euro more expensive than a BMW manual car. 
+- The cost of the BMW car decreases by 860 euros for every additional year of age. Every thousand kilometers the car run drives down its price by 76 euro. I consider these effects to be aligned with economic norms as car age and mileage indicate the risk of malfunction. Therefore, customers are less willing to pay for old cars. 
+- On the other hand, the higher the horsepower, the higher the price. Besides, comparing two cars with similar profiles, an automatic BMW car is on average 2,104 euro more expensive than a BMW manual car. 
 
 Overall, the model explains 81% of the changes in car prices, demonstrating strong explanatory power. 
