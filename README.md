@@ -7,7 +7,7 @@ The project sets out to identify the key specifications that influence the price
 #### _Step 1_: Data collection
 Used _a web scrapping library from Python_ to extract car listing data from _autoscout24.com_.
 
-After filtering out observations with insufficient required information, I had a cleaned dataset of **395** pre-owned cars, each including its **price** and **8 specification details** 
+After examining missing data patterns and imputing missing values, I had a cleaned dataset of **395** pre-owned cars, each including its **price** and **8 specification details** 
 #### _Step 2_: Model specification
 Applied **multivariate regression model**, which is a powerful tool to study and quantify the relationships between the explanatory factors and the response variable.
 #### _Step 3_: Model robustness check
